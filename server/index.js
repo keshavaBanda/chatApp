@@ -32,4 +32,4 @@ server.listen(3001, () => {
     console.log("Server Running...")
 })
 
-module.exports = app;
+module.exports = server;
