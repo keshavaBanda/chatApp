@@ -31,3 +31,5 @@ io.on("connection", (socket) => {
 server.listen(3001, () => {
     console.log("Server Running...")
 })
+
+module.exports = app;
